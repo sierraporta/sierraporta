@@ -9,8 +9,8 @@
  <summary> 😇 <b>My Github Stats</b>: </summary>
 <br>
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=sierraporta&count_private=true&show_icons=true&theme=gruvbox" width="425" height="200">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=sierraporta&theme=gruvbox&show_icons=true&hide=css,html" width="425" height="180">
+  <img src = "https://github-readme-stats.vercel.app/api?username=sierraporta&count_private=true&show_icons=true&layout=compac&theme=gruvbox">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=sierraporta&theme=gruvbox&show_icons=true&layout=compac">
 </p>
 
 </details>
