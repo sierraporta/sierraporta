@@ -10,7 +10,7 @@
 <br>
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=sierraporta&count_private=true&show_icons=true&theme=gruvbox&layout=compac">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=sierraporta&layout=compact&theme=gruvbox&hide=css,html">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=sierraporta&theme=gruvbox&hide=css,html">
 </p>
 
 </details>
