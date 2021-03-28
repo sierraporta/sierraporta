@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
+-->
 
 <details open>
  <summary> 😇 <b>My Github Stats</b>: </summary>
@@ -24,4 +24,3 @@ Here are some ideas to get you started:
 </p>
 
 </details>
--->
