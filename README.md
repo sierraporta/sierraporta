@@ -19,12 +19,9 @@ Here are some ideas to get you started:
  <summary> 😇 <b>My Github Stats</b>: </summary>
 <br>
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=sierraporta&show_icons=true&theme=bear&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=sierraporta&hide=css,java,html&theme=bear">
+  <img src = "https://github-readme-stats.vercel.app/api?username=sierraporta&count_private=true&show_icons=true&theme=onedark&layout=compac">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=sierraporta&layout=compact&theme=onedark&hide=css,html">
 </p>
 
 </details>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sierraporta&layout=compact&theme=onedark&hide=css,html) 
-
-![sierraporta's github stats](https://github-readme-stats.vercel.app/api?username=sierraporta&count_private=true&show_icons=true&theme=onedark&layout=compac)
