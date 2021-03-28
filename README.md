@@ -3,7 +3,7 @@
 <!--
 **sierraporta/sierraporta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-[![Linkedin Badge](https://img.shields.io/badge/-sierraporta-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/david-sierra-porta-7a7191169/)](https://www.linkedin.com/in/jlim/)
+[![Linkedin Badge](https://img.shields.io/badge/-sierraporta-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/david-sierra-porta-7a7191169/)](https://www.linkedin.com/in/david-sierra-porta-7a7191169/)
 [![Medium Badge](https://img.shields.io/badge/-@__jessicalim-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@_jessicalim)](https://medium.com/@_jessicalim)
 [![Website Badge](https://img.shields.io/badge/-jessicalim.me-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://jessicalim.me)](https://jessicalim.me)
 [![Twitter Badge](https://img.shields.io/badge/-@__jesslim-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_jesslim)](https://twitter.com/_jesslim)
