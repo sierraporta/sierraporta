@@ -8,7 +8,28 @@
 [![Linkedin Badge](https://img.shields.io/badge/-sierraporta-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/david-sierra-porta-7a7191169/)](https://www.linkedin.com/in/david-sierra-porta-7a7191169/)
 [![Gmail Badge](https://img.shields.io/badge/-sierraporta-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:sierraporta@gmail.com)](mailto:sierraporta@gmail.com)
 
-🔭 I’m currently working **Universidad Tecnológica de Bolivar, Cartagena de Indias**, 🌱 I’m currently learning `python` and `jupyter notebook`, 💬 Ask me about anything - I am very curious and I like to explore new things, 📫 How to reach me: write me  an email, ⚡ Fun fact: I'm a huge fan of Tolkien...
+👋 Hello! I'm David Sierra Porta
+I'm a researcher, professor, and enthusiast in data science, artificial intelligence, and astrophysics. My work focuses on analyzing spatial, environmental, and complex network data using machine learning, deep learning, and advanced statistical models.
+
+🔬 Areas of Interest:
+
+Data science applied to astrophysics, space weather, and cosmic rays
+Complex network analysis and topological data analysis
+Environmental pollution modeling and climate change studies
+Prediction of solar and geomagnetic events
+AI applications in scientific research
+💻 Technical Skills:
+
+Python (NumPy, Pandas, Scikit-Learn, TensorFlow, NetworkX, SciPy, Matplotlib)
+Machine learning and time series analysis
+Spatial and geospatial data modeling
+Scientific image analysis
+📚 Projects & Publications:
+I enjoy sharing code, methodologies, and scientific experiments in this repository. If you are interested in data science and its applications in various fields, take a look at my projects, and let's collaborate!
+
+🚀 Let's Connect!
+If you have an idea or would like to discuss data science and its applications, feel free to reach out. Always open to new collaborations!
+⚡ Fun fact: I'm a huge fan of Tolkien...
 
 [![sierraporta's github stats](https://github-readme-stats.vercel.app/api?username=sierraporta&show_icons=true&theme=yeblu)](https://github.com/sierraporta)
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sierraporta&layout=compact&theme=yeblu)](https://github.com/sierraporta)
