@@ -11,24 +11,18 @@
 👋 Hello! I'm David Sierra Porta
 I'm a researcher, professor, and enthusiast in data science, artificial intelligence, and astrophysics. My work focuses on analyzing spatial, environmental, and complex network data using machine learning, deep learning, and advanced statistical models.
 
-🔬 Areas of Interest:
+🔬 **Areas of Interest:**
 
-Data science applied to astrophysics, space weather, and cosmic rays
-Complex network analysis and topological data analysis
-Environmental pollution modeling and climate change studies
-Prediction of solar and geomagnetic events
-AI applications in scientific research
+Data science applied to astrophysics, space weather, and cosmic rays. Complex network analysis and topological data analysis. Environmental pollution modeling and climate change studies. Prediction of solar and geomagnetic events. AI applications in scientific research
 
-💻 Technical Skills:
+💻 **Technical Skills:**
 
-Python (NumPy, Pandas, Scikit-Learn, TensorFlow, NetworkX, SciPy, Matplotlib)
-Machine learning and time series analysis
-Spatial and geospatial data modeling
-Scientific image analysis
-📚 Projects & Publications:
+Python (NumPy, Pandas, Scikit-Learn, TensorFlow, NetworkX, SciPy, Matplotlib). Machine learning and time series analysis. Spatial and geospatial data modeling. Scientific image analysis
+
+📚 **Projects & Publications:**
 I enjoy sharing code, methodologies, and scientific experiments in this repository. If you are interested in data science and its applications in various fields, take a look at my projects, and let's collaborate!
 
-🚀 Let's Connect!
+🚀 **Let's Connect!**
 If you have an idea or would like to discuss data science and its applications, feel free to reach out. Always open to new collaborations!
 ⚡ Fun fact: I'm a huge fan of Tolkien...
 
