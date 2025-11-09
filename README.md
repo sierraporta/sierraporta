@@ -18,6 +18,7 @@ Complex network analysis and topological data analysis
 Environmental pollution modeling and climate change studies
 Prediction of solar and geomagnetic events
 AI applications in scientific research
+
 💻 Technical Skills:
 
 Python (NumPy, Pandas, Scikit-Learn, TensorFlow, NetworkX, SciPy, Matplotlib)
