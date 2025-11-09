@@ -12,11 +12,9 @@
 I'm a researcher, professor, and enthusiast in data science, artificial intelligence, and astrophysics. My work focuses on analyzing spatial, environmental, and complex network data using machine learning, deep learning, and advanced statistical models.
 
 🔬 **Areas of Interest:**
-
 Data science applied to astrophysics, space weather, and cosmic rays. Complex network analysis and topological data analysis. Environmental pollution modeling and climate change studies. Prediction of solar and geomagnetic events. AI applications in scientific research
 
 💻 **Technical Skills:**
-
 Python (NumPy, Pandas, Scikit-Learn, TensorFlow, NetworkX, SciPy, Matplotlib). Machine learning and time series analysis. Spatial and geospatial data modeling. Scientific image analysis
 
 📚 **Projects & Publications:**
