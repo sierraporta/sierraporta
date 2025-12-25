@@ -22,6 +22,7 @@ I enjoy sharing code, methodologies, and scientific experiments in this reposito
 
 🚀 **Let's Connect!**
 If you have an idea or would like to discuss data science and its applications, feel free to reach out. Always open to new collaborations!
-⚡ Fun fact: I'm a huge fan of Tolkien...
+
+⚡ **Fun fact:** I'm a huge fan of Tolkien...
 
 [![sierraporta's github stats](https://github-readme-stats.vercel.app/api?username=sierraporta&show_icons=true&theme=yeblu)](https://github.com/sierraporta) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sierraporta&layout=compact&theme=yeblu)](https://github.com/sierraporta)
