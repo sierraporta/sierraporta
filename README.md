@@ -25,6 +25,6 @@ If you have an idea or would like to discuss data science and its applications, 
 
 ⚡ **Fun fact:** I'm a huge fan of Tolkien...
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sierraporta&show_icons=true&rank_icon=github&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://streak-stats.demolab.com?user=sierraporta)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sierraporta&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sierraporta&show_icons=true&v=1)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=sierraporta&v=1)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sierraporta&layout=compact&v=1)](https://github.com/anuraghazra/github-readme-stats)
