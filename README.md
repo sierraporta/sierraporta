@@ -24,16 +24,12 @@ I enjoy sharing code, methodologies, and scientific experiments in this reposito
 If you have an idea or would like to discuss data science and its applications, feel free to reach out. Always open to new collaborations!
 
 ⚡ **Fun fact:** I'm a huge fan of Tolkien...
-<a href="https://github.com/anuraghazra/github-readme-stats">
-   <img alt="GitHub Stats Card" src="https://github-readme-stats.vercel.app/api?username=sierraporta">
-</a>
 
-<a href="https://git.io/streak-stats">
-   <img src="https://streak-stats.demolab.com?user=sierraporta" alt="GitHub Streak">
-</a>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sierraporta&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-<a src="https://github.com/anuraghazra/github-readme-stats">
-   <img alt="Top Languages Card" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sierraporta">
-</a>
+[![GitHub Streak](https://streak-stats.demolab.com?user=sierraporta)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sierraporta&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
