@@ -1,8 +1,6 @@
 # Hi there 👋 I'm David Sierra Porta
 **Researcher | Professor | Data Scientist | Astrophysicist**
 
-[![Medium Badge](https://img.shields.io/badge/-@__jessicalim-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@_jessicalim)](https://medium.com/@_jessicalim)
--->
 [![Linkedin Badge](https://img.shields.io/badge/-sierraporta-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/david-sierra-porta-7a7191169/)](https://www.linkedin.com/in/david-sierra-porta-7a7191169/)
 [![Gmail Badge](https://img.shields.io/badge/-sierraporta-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:sierraporta@gmail.com)](mailto:sierraporta@gmail.com)
 
