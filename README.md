@@ -21,3 +21,5 @@ Python (NumPy, Pandas, Scikit-Learn, TensorFlow, NetworkX, SciPy, Matplotlib). M
 **🐚🐦‍🔥🚀 Let's Connect!** If you have an idea or would like to discuss data science and its applications, feel free to reach out. Always open to new collaborations!
 
 **⚡ Fun Fact** 🍄 I'm a huge fan of **Tolkien's Legendarium**. As Gandalf said: *"All we have to decide is what to do with the time that is given us."* (I choose to spend mine training models and looking at the stars).
+
+![Stats](./profile/stats.svg)
