@@ -21,15 +21,3 @@ Python (NumPy, Pandas, Scikit-Learn, TensorFlow, NetworkX, SciPy, Matplotlib). M
 **🐚🐦‍🔥🚀 Let's Connect!** If you have an idea or would like to discuss data science and its applications, feel free to reach out. Always open to new collaborations!
 
 **⚡ Fun Fact** 🍄 I'm a huge fan of **Tolkien's Legendarium**. As Gandalf said: *"All we have to decide is what to do with the time that is given us."* (I choose to spend mine training models and looking at the stars).
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-   <img alt="GitHub Stats Card" src="https://github-readme-stats.vercel.app/api?username=sierraporta">
-</a>
-
-<a href="https://git.io/streak-stats">
-   <img src="https://streak-stats.demolab.com?user=sierraporta" alt="GitHub Streak">
-</a>
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sierraporta&layout=compact&langs_count=10&cache_seconds=86400" />
-</p>
-
