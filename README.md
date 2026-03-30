@@ -26,11 +26,9 @@ Python (NumPy, Pandas, Scikit-Learn, TensorFlow, NetworkX, SciPy, Matplotlib). M
    <img alt="GitHub Stats Card" src="https://github-readme-stats.vercel.app/api?username=sierraporta">
 </a>
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sierraporta&show_icons=true&rank_icon=github&include_all_commits=true&cache_seconds=86400" />
-  <img height="170" src="https://streak-stats.demolab.com?user=sierraporta" />
-</p>
-
+<a href="https://git.io/streak-stats">
+   <img src="https://streak-stats.demolab.com?user=sierraporta" alt="GitHub Streak">
+</a>
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sierraporta&layout=compact&langs_count=10&cache_seconds=86400" />
 </p>
