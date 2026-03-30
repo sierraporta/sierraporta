@@ -22,6 +22,7 @@ Python (NumPy, Pandas, Scikit-Learn, TensorFlow, NetworkX, SciPy, Matplotlib). M
 
 **⚡ Fun Fact** 🍄 I'm a huge fan of **Tolkien's Legendarium**. As Gandalf said: *"All we have to decide is what to do with the time that is given us."* (I choose to spend mine training models and looking at the stars).
 
+![SierraPorta's GitHub stats](https://github-readme-stats.vercel.app/api?username=sierraporta&show_icons=true&theme=radical)
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=sierraporta&show_icons=true&rank_icon=github&include_all_commits=true&cache_seconds=86400" />
