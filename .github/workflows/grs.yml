@@ -41,14 +41,6 @@ jobs:
           path: profile/summary.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Generate streaks card
-        uses: readme-tools/github-readme-stats-action@v1
-        with:
-          card: streak
-          options: username=sierraporta&theme=radical&hide_border=true
-          path: profile/streak.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-
       - name: Generate activity graph
         uses: lowlighter/metrics@latest
         with:
