@@ -1,7 +1,6 @@
 # Hi there 👋 I'm David Sierra Porta
 **Researcher | Professor | Data Scientist | Astrophysicist**
 
-<p align="center">
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/david-sierra-porta-7a7191169/)](https://www.linkedin.com/in/david-sierra-porta-7a7191169/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:sierraporta@gmail.com)](mailto:sierraporta@gmail.com)
 [![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white&link=https://sierraporta.github.io/)](https://sierraporta.github.io/)
@@ -11,7 +10,6 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
-</p>
 
 **🆔 About Me:** I'm a researcher and professor dedicated to the intersection of **Data Science, AI, and Astrophysics**. I specialize in deciphering complex patterns in spatial and environmental data through Machine Learning and Topological Data Analysis.  
 
@@ -23,7 +21,6 @@
 **✅💻🔥 Technical Skills:**
 Python (NumPy, Pandas, Scikit-Learn, TensorFlow, NetworkX, SciPy, Matplotlib). Machine learning and time series analysis. Spatial and geospatial data modeling. Scientific image analysis
 
-<p align="center">
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
@@ -37,7 +34,6 @@ Python (NumPy, Pandas, Scikit-Learn, TensorFlow, NetworkX, SciPy, Matplotlib). M
 ![Polars](https://img.shields.io/badge/polars-0075ff?style=for-the-badge&logo=polars&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
-</p>
 
 > **Core Skills:** Time Series Analysis • Geospatial Modeling • Deep Learning • Scientific Computing
 
