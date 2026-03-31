@@ -26,3 +26,8 @@ Python (NumPy, Pandas, Scikit-Learn, TensorFlow, NetworkX, SciPy, Matplotlib). M
   <img src="./profile/stats.svg" width="55.5%" />
   <img src="./profile/top-langs.svg" width="42.5%" />
 </p>
+
+<p align="center">
+  <img src="https://vercel.app" width="55.5%" />
+  <img src="https://herokuapp.com" width="42.5%" />
+</p>
