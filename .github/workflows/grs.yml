@@ -32,6 +32,23 @@ jobs:
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
+      - name: Generate streaks card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: streak
+          options: username=${{ github.repository_owner }}&theme=radical
+          path: profile/streak.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate stats summary card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: stats
+          # Esta es una variante de stats pero enfocada en contribuciones totales
+          options: username=${{ github.repository_owner }}&show_icons=true&theme=radical&include_all_commits=true
+          path: profile/summary.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
       - name: Commit and push cards
         run: |
           git config user.name "github-actions[bot]"
