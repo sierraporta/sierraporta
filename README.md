@@ -22,7 +22,10 @@ Python (NumPy, Pandas, Scikit-Learn, TensorFlow, NetworkX, SciPy, Matplotlib). M
 
 **⚡ Fun Fact** 🍄 I'm a huge fan of **Tolkien's Legendarium**. As Gandalf said: *"All we have to decide is what to do with the time that is given us."* (I choose to spend mine training models and looking at the stars).
 
-<p align="center">
-  <img src="./profile/stats.svg" width="55.5%" />
-  <img src="./profile/top-langs.svg" width="42.5%" />
-</p>
+<table align="center" border="0">
+  <tr>
+    <td width="33%"><img src="./profile/stats.svg" width="100%" /></td>
+    <td width="33%"><img src="./profile/top-langs.svg" width="100%" /></td>
+    <td width="3%"><img src="./profile/summary.svg" width="100%" /></td>
+  </tr>
+</table>
