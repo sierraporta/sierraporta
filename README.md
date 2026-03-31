@@ -28,5 +28,5 @@ Python (NumPy, Pandas, Scikit-Learn, TensorFlow, NetworkX, SciPy, Matplotlib). M
 </p>
 
 <p align="center">
-  <img src="./profile/activity-graph.svg" width="95.5%" style="height: 50%;"/>
+  <img src="./profile/activity-graph.svg" style="width: 95.5%; height: 50%;" />
 </p>
