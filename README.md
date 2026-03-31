@@ -29,5 +29,5 @@ Python (NumPy, Pandas, Scikit-Learn, TensorFlow, NetworkX, SciPy, Matplotlib). M
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=sierraporta" width="55.5%" />
-  <img src="./profile/activity-graph.svg" width="37.5%" />
+  <img src="./profile/activity-graph.svg" width="42.5%" />
 </p>
