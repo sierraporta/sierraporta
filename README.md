@@ -1,8 +1,12 @@
 # Hi there 👋 I'm David Sierra Porta
 **Researcher | Professor | Data Scientist | Astrophysicist**
 
-[![Linkedin Badge](https://img.shields.io/badge/-sierraporta-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/david-sierra-porta-7a7191169/)](https://www.linkedin.com/in/david-sierra-porta-7a7191169/)
-[![Gmail Badge](https://img.shields.io/badge/-sierraporta-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:sierraporta@gmail.com)](mailto:sierraporta@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=Linkedin&logoColor=white)&link=https://www.linkedin.com/in/david-sierra-porta-7a7191169/)](https://www.linkedin.com/in/david-sierra-porta-7a7191169/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:sierraporta@gmail.com)](mailto:sierraporta@gmail.com)
+[![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white&link=https://sierraporta.github.io/)](https://sierraporta.github.io/)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 
 **🆔 About Me:** I'm a researcher and professor dedicated to the intersection of **Data Science, AI, and Astrophysics**. I specialize in deciphering complex patterns in spatial and environmental data through Machine Learning and Topological Data Analysis.  
 
