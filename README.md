@@ -24,5 +24,5 @@ Python (NumPy, Pandas, Scikit-Learn, TensorFlow, NetworkX, SciPy, Matplotlib). M
 
 <p align="center">
   <img src="./profile/stats.svg" width="55.5%" />
-  <img src="./profile/top-langs.svg" width="42%" />
+  <img src="./profile/top-langs.svg" width="42.5%" />
 </p>
