@@ -41,6 +41,24 @@ jobs:
           path: profile/summary.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
+      - name: Generate streaks card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: streak
+          options: username=sierraporta&theme=radical&hide_border=true
+          path: profile/streak.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate activity graph
+        uses: lowlighter/metrics@latest
+        with:
+          filename: profile/activity-graph.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          base: ""
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
+
+
       - name: Commit and push cards
         run: |
           git config user.name "github-actions[bot]"
