@@ -50,7 +50,6 @@ jobs:
           config_timezone: America/Bogota # Ajusta a tu zona horaria
           # Usamos un tema oscuro y personalizamos los colores para que parezca "Radical"
           template: classic
-          base_colors: "pink, purple" 
           config_order: isocalendar
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
