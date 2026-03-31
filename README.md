@@ -28,5 +28,5 @@ Python (NumPy, Pandas, Scikit-Learn, TensorFlow, NetworkX, SciPy, Matplotlib). M
 </p>
 
 <p align="center">
-  <img src="https://herokuapp.com" width="99.5%" />
+  <img src="./profile/activity-graph.svg" width="55.5%" />
 </p>
