@@ -7,6 +7,8 @@
 [![Blog: Prancing Pony](https://img.shields.io/badge/rss-F88900?style=for-the-badge&logo=github&logoColor=white&link=https://sierraporta.github.io/prancing-pony/)](https://sierraporta.github.io/prancing-pony/)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 
 **🆔 About Me:** I'm a researcher and professor dedicated to the intersection of **Data Science, AI, and Astrophysics**. I specialize in deciphering complex patterns in spatial and environmental data through Machine Learning and Topological Data Analysis.  
