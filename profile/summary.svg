@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">David Sierra Porta's GitHub Stats, Rank: B</title>
-        <desc id="descId">Total Stars Earned: 55, Total Commits  : 2628, Total PRs: 0, Total Issues: 2, Contributed to (last year): 2</desc>
+        <desc id="descId">Total Stars Earned: 55, Total Commits  : 2637, Total PRs: 0, Total Issues: 2, Contributed to (last year): 2</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 154.21104883392047;
+        stroke-dashoffset: 154.16890870883287;
       }
     }
   
